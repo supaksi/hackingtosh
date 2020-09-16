@@ -1,7 +1,7 @@
 # Hackintosh
 - 설치시 바이오스에서 날짜 19년 이전으로 설정
 
-## Clover_XPS9560
+# Clover_XPS9560.zip
 - Mojave 버전
 
 ### USB 만들기
