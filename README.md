@@ -1,1 +1,1 @@
-# hackingtosh
+# Hackintosh
