@@ -1,4 +1,5 @@
 # Hackintosh
+- 설치시 바이오스에서 날짜 19년 이전으로 설정
 
 ## CLOVER_Z97-UD3H.zip
 ### USB
